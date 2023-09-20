@@ -1,0 +1,4 @@
+@EndUserText.label: 'Testing git deletion for SRVB'
+define service Zar_test_srvb {
+  expose I_Currency;
+}
